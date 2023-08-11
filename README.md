@@ -1,4 +1,6 @@
 <h1>TourOfHeroes</h1>
+#This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.1.8. following the TourOfHeroes tutorial from Angular documentation. https://angular.io/tutorial/tour-of-heroes
+
 
 <table>
   <th>Summary</th>
@@ -8,16 +10,36 @@
         Necessary dependencies to use HTTP in the application
       </td>
     </tr>
+<tr>
+      <td>
+        Loading Heroes from a web API
+      </td>
+    </tr>
+    <tr>
+      <td>
+        HeroService support's post(), put(), and delete() methods.
+      </td>
+    </tr>
+    <tr>
+      <td>
+        Adding, editing, and deleting of heroes.
+      </td>
+    </tr>
+    <tr>
+      <td>
+        In-memory web API configured
+      </td>
+    </tr>
+    <tr>
+      <td>
+        Observables
+      </td>
+    </tr>
   </tbody>
 </table>
 
-You refactored HeroService to load heroes from a web API
-You extended HeroService to support post(), put(), and delete() methods
-You updated the components to allow adding, editing, and deleting of heroes
-You configured an in-memory web API
-You learned how to use observables
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.1.8.
+
 
 ## Development server
 
